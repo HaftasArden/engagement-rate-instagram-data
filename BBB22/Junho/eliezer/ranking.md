@@ -1,0 +1,70 @@
+# Ranking by Likes
+
+| Shortcode   | Likes   | Link |
+| ----        | ----    | ---- |
+| Cd9Id3fl_E0 | 491.883 | [https://instagram.com/p/Cd9Id3fl_E0](https://instagram.com/p/Cd9Id3fl_E00) |
+| CfFO1ArgJFL | 168.608 | [https://instagram.com/p/CfFO1ArgJFL](https://instagram.com/p/CfFO1ArgJFL0) |
+| Ce1H-9grXgh | 164.799 | [https://instagram.com/p/Ce1H-9grXgh](https://instagram.com/p/Ce1H-9grXgh0) |
+| CeCoGxdvS0v | 152.517 | [https://instagram.com/p/CeCoGxdvS0v](https://instagram.com/p/CeCoGxdvS0v0) |
+| CeoxxccjI84 | 66.442  | [https://instagram.com/p/CeoxxccjI84](https://instagram.com/p/CeoxxccjI840) |
+| CemVBtppWT5 | 64.498  | [https://instagram.com/p/CemVBtppWT5](https://instagram.com/p/CemVBtppWT50) |
+| CdyQoE0rYZD | 57.452  | [https://instagram.com/p/CdyQoE0rYZD](https://instagram.com/p/CdyQoE0rYZD0) |
+| Cd1llE7sBG0 | 48.359  | [https://instagram.com/p/Cd1llE7sBG0](https://instagram.com/p/Cd1llE7sBG00) |
+| CdwKJoesZVs | 38.495  | [https://instagram.com/p/CdwKJoesZVs](https://instagram.com/p/CdwKJoesZVs0) |
+| CeUnUnoLgmb | 36.046  | [https://instagram.com/p/CeUnUnoLgmb](https://instagram.com/p/CeUnUnoLgmb0) |
+| CezPk7BPAmC | 35.611  | [https://instagram.com/p/CezPk7BPAmC](https://instagram.com/p/CezPk7BPAmC0) |
+| CejvFlZA4Xz | 32.496  | [https://instagram.com/p/CejvFlZA4Xz](https://instagram.com/p/CejvFlZA4Xz0) |
+| Cet1MSpppkc | 31.311  | [https://instagram.com/p/Cet1MSpppkc](https://instagram.com/p/Cet1MSpppkc0) |
+| CerMPanOe_l | 30.753  | [https://instagram.com/p/CerMPanOe_l](https://instagram.com/p/CerMPanOe_l0) |
+| CewooPQMlTE | 25.365  | [https://instagram.com/p/CewooPQMlTE](https://instagram.com/p/CewooPQMlTE0) |
+| Cd-83DvLKG1 | 22.984  | [https://instagram.com/p/Cd-83DvLKG1](https://instagram.com/p/Cd-83DvLKG10) |
+| Ce2EnKMP48k | 22.903  | [https://instagram.com/p/Ce2EnKMP48k](https://instagram.com/p/Ce2EnKMP48k0) |
+| CeL7blJLYVy | 22.518  | [https://instagram.com/p/CeL7blJLYVy](https://instagram.com/p/CeL7blJLYVy0) |
+| CeYfNYVJ4rC | 22.371  | [https://instagram.com/p/CeYfNYVJ4rC](https://instagram.com/p/CeYfNYVJ4rC0) |
+| Cdwgg1GhZRM | 22.179  | [https://instagram.com/p/Cdwgg1GhZRM](https://instagram.com/p/Cdwgg1GhZRM0) |
+| CeenYhwvI1Z | 20.528  | [https://instagram.com/p/CeenYhwvI1Z](https://instagram.com/p/CeenYhwvI1Z0) |
+| CeZOdhKJYbm | 20.457  | [https://instagram.com/p/CeZOdhKJYbm](https://instagram.com/p/CeZOdhKJYbm0) |
+| CfH_QAhrtG- | 19.936  | [https://instagram.com/p/CfH_QAhrtG-](https://instagram.com/p/CfH_QAhrtG-0) |
+| CfAMPdNMR-L | 18.935  | [https://instagram.com/p/CfAMPdNMR-L](https://instagram.com/p/CfAMPdNMR-L0) |
+| CePoFQjtpig | 18.471  | [https://instagram.com/p/CePoFQjtpig](https://instagram.com/p/CePoFQjtpig0) |
+| Cd4P7ImNMFs | 17.413  | [https://instagram.com/p/Cd4P7ImNMFs](https://instagram.com/p/Cd4P7ImNMFs0) |
+| CeSC7YytjWK | 16.776  | [https://instagram.com/p/CeSC7YytjWK](https://instagram.com/p/CeSC7YytjWK0) |
+| Ce9FB6Jr-ze | 12.843  | [https://instagram.com/p/Ce9FB6Jr-ze](https://instagram.com/p/Ce9FB6Jr-ze0) |
+| Ce6zBMHuUip | 11.295  | [https://instagram.com/p/Ce6zBMHuUip](https://instagram.com/p/Ce6zBMHuUip0) |
+| CfKYB5ivPoF | 5.807   | [https://instagram.com/p/CfKYB5ivPoF](https://instagram.com/p/CfKYB5ivPoF0) |
+
+
+# Ranking by Comments
+
+| Shortcode   | Comments | Link |
+| ----        | ----     | ---- |
+| Cd9Id3fl_E0 | 6.749    | [https://instagram.com/p/Cd9Id3fl_E0](https://instagram.com/p/Cd9Id3fl_E00) |
+| CfFO1ArgJFL | 4.285    | [https://instagram.com/p/CfFO1ArgJFL](https://instagram.com/p/CfFO1ArgJFL0) |
+| CemVBtppWT5 | 3.511    | [https://instagram.com/p/CemVBtppWT5](https://instagram.com/p/CemVBtppWT50) |
+| CeoxxccjI84 | 2.844    | [https://instagram.com/p/CeoxxccjI84](https://instagram.com/p/CeoxxccjI840) |
+| Ce9FB6Jr-ze | 2.554    | [https://instagram.com/p/Ce9FB6Jr-ze](https://instagram.com/p/Ce9FB6Jr-ze0) |
+| Cet1MSpppkc | 2.255    | [https://instagram.com/p/Cet1MSpppkc](https://instagram.com/p/Cet1MSpppkc0) |
+| CejvFlZA4Xz | 2.202    | [https://instagram.com/p/CejvFlZA4Xz](https://instagram.com/p/CejvFlZA4Xz0) |
+| CerMPanOe_l | 2.172    | [https://instagram.com/p/CerMPanOe_l](https://instagram.com/p/CerMPanOe_l0) |
+| CeCoGxdvS0v | 2.165    | [https://instagram.com/p/CeCoGxdvS0v](https://instagram.com/p/CeCoGxdvS0v0) |
+| CewooPQMlTE | 2.146    | [https://instagram.com/p/CewooPQMlTE](https://instagram.com/p/CewooPQMlTE0) |
+| CeUnUnoLgmb | 2.050    | [https://instagram.com/p/CeUnUnoLgmb](https://instagram.com/p/CeUnUnoLgmb0) |
+| Cd1llE7sBG0 | 2.008    | [https://instagram.com/p/Cd1llE7sBG0](https://instagram.com/p/Cd1llE7sBG00) |
+| Ce1H-9grXgh | 1.974    | [https://instagram.com/p/Ce1H-9grXgh](https://instagram.com/p/Ce1H-9grXgh0) |
+| Ce2EnKMP48k | 1.632    | [https://instagram.com/p/Ce2EnKMP48k](https://instagram.com/p/Ce2EnKMP48k0) |
+| CdwKJoesZVs | 1.630    | [https://instagram.com/p/CdwKJoesZVs](https://instagram.com/p/CdwKJoesZVs0) |
+| CezPk7BPAmC | 1.614    | [https://instagram.com/p/CezPk7BPAmC](https://instagram.com/p/CezPk7BPAmC0) |
+| Cdwgg1GhZRM | 1.592    | [https://instagram.com/p/Cdwgg1GhZRM](https://instagram.com/p/Cdwgg1GhZRM0) |
+| CfH_QAhrtG- | 1.352    | [https://instagram.com/p/CfH_QAhrtG-](https://instagram.com/p/CfH_QAhrtG-0) |
+| CdyQoE0rYZD | 1.340    | [https://instagram.com/p/CdyQoE0rYZD](https://instagram.com/p/CdyQoE0rYZD0) |
+| Ce6zBMHuUip | 1.319    | [https://instagram.com/p/Ce6zBMHuUip](https://instagram.com/p/Ce6zBMHuUip0) |
+| Cd-83DvLKG1 | 1.271    | [https://instagram.com/p/Cd-83DvLKG1](https://instagram.com/p/Cd-83DvLKG10) |
+| CePoFQjtpig | 1.262    | [https://instagram.com/p/CePoFQjtpig](https://instagram.com/p/CePoFQjtpig0) |
+| CfKYB5ivPoF | 1.185    | [https://instagram.com/p/CfKYB5ivPoF](https://instagram.com/p/CfKYB5ivPoF0) |
+| CeSC7YytjWK | 1.162    | [https://instagram.com/p/CeSC7YytjWK](https://instagram.com/p/CeSC7YytjWK0) |
+| CeZOdhKJYbm | 1.137    | [https://instagram.com/p/CeZOdhKJYbm](https://instagram.com/p/CeZOdhKJYbm0) |
+| Cd4P7ImNMFs | 1.121    | [https://instagram.com/p/Cd4P7ImNMFs](https://instagram.com/p/Cd4P7ImNMFs0) |
+| CeYfNYVJ4rC | 1.120    | [https://instagram.com/p/CeYfNYVJ4rC](https://instagram.com/p/CeYfNYVJ4rC0) |
+| CeenYhwvI1Z | 1.112    | [https://instagram.com/p/CeenYhwvI1Z](https://instagram.com/p/CeenYhwvI1Z0) |
+| CeL7blJLYVy | 1.070    | [https://instagram.com/p/CeL7blJLYVy](https://instagram.com/p/CeL7blJLYVy0) |
+| CfAMPdNMR-L | 921      | [https://instagram.com/p/CfAMPdNMR-L](https://instagram.com/p/CfAMPdNMR-L0) |
