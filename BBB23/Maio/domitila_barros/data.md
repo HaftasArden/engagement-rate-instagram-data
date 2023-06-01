@@ -10,6 +10,7 @@
 | Engagement Rate | 2.69% | 2023-05-28T15:11:31.109Z |
 | Engagement Rate | 2.74% | 2023-05-29T21:13:29.152Z |
 | Engagement Rate | 3.30% | 2023-05-30T11:30:34.123Z |
+| Engagement Rate | 3.14% | 2023-06-01T11:42:37.991Z |
 
 ## Seguidores
 
